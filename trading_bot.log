@@ -1,0 +1,5 @@
+2026-03-13 13:04:53,987 - ERROR - FAILED: APIError(code=-1022): Signature for this request is not valid.
+2026-03-13 13:09:29,454 - ERROR - FAILED: APIError(code=-1022): Signature for this request is not valid.
+2026-03-13 13:10:32,195 - ERROR - FAILED: APIError(code=-1022): Signature for this request is not valid.
+2026-03-13 13:59:39,448 - ERROR - FAILED: APIError(code=-1022): Signature for this request is not valid.
+2026-03-13 16:13:37,049 - ERROR - FAILED: APIError(code=-1022): Signature for this request is not valid.
